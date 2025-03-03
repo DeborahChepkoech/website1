@@ -35,7 +35,7 @@ cd website1
 
 
 ## Contributing
-Feel free to fork this project and submit pull requests. We welcome contributions from the community!
+Feel free to fork this project and submit pull requests.
 
 ## License
 This project is licensed under the MIT License.
